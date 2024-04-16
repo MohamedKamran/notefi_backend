@@ -46,4 +46,4 @@ To run the Notefi backend on your local machine, follow these steps:
 ## Contributors
 
 - [Mohamed Kamran](https://github.com/mohamedkamran)
-- [Teammate Name](https://www.instagram.com/suhzeet_/)
+- [Sujeet Kumar](https://www.instagram.com/suhzeet_/)
